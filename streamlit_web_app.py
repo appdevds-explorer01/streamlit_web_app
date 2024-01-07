@@ -192,7 +192,7 @@ def main():
 
         ##### By
         + **DS**
-        + [abc@gmail.com](mailto:abc@gmail.com)
+        # + [abc@gmail.com](mailto:abc@gmail.com)
         """)
 
 if __name__ == '__main__':
