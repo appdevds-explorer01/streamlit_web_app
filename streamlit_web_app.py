@@ -43,7 +43,7 @@ def main():
     </div>
     """
     st.markdown(title_templ,unsafe_allow_html=True)
-    st.sidebar.image("images/gen-ai-img.jpg", use_column_width=True)
+    st.sidebar.image("", use_column_width=True)
 
     subheader_templ = """
     <div style="background-color:gray;padding:8px;">
